@@ -21,7 +21,7 @@ version='0.0.1',
 author='shubham',
 author_email='shubhamsingh2325@gmail.com',
 packages=find_packages(),
-instll_requires=get_requirement('requirement.txt'),
+install_requires=get_requirement('requirement.txt'),
 
 
 )
